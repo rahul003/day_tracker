@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Day Tracker v1.0.5</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Day Tracker v1.0</string>
+    <string name="study">Study</string>
+    <string name="gaming">Gaming</string>
+    <string name="sports">Sports</string>
+    <string name="sleep">Sleep</string>
+    <string name="random">Misc.</string>
+    <color name="green">#75F546</color>
+    <color name="orange">#F7C73A</color>
+    <color name="blue">#44F8FB</color>
+    <string name="button6">Analyze</string>
+  <string name="button7">The Team</string>
+    <string name="title_activity_analyzio">Team</string>
+    <string name="under">The Team Behind the App
+       </string>
+    <string name="rahul">Rahul Huilgol</string>
+    <string name="sim">Simrat Singh</string>
+    <string name="vineeth">Vineeth Doshi</string>
+    <string name="harsha">Harsha Nadimpalli</string>
+    <string name="veera">Veera Anudeep</string>
+    
+
+</resources>
